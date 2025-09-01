@@ -170,27 +170,18 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ```
 
 ### Dataset Information
-Include screenshot of the dataset.
-
 ![datasetInfo](image.png)
 
-### OUTPUT
+## OUTPUT
 
-## Confusion Matrix
-
-Include confusion matrix here
-
+### Confusion Matrix
 ![confusionMatrix](image-1.png)
 
-## Classification Report
-Include classification report here
-
+### Classification Report
 ![classReport](image-2.png)
 
 ### New Sample Data Prediction
-Include your sample input and output here
-
 ![pred](image-3.png)
 
 ## RESULT
-Include your result here
+Thus, a neural network classification model was successfully developed and trained using PyTorch
