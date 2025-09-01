@@ -186,6 +186,7 @@ Include classification report here
 
 ### New Sample Data Prediction
 Include your sample input and output here
+
 ![pred](image-3.png)
 
 ## RESULT
